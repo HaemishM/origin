@@ -15,5 +15,6 @@
     "express": "^4.17.1",
     "mongoose": "^5.9.3",
     "mongoose-encryption": "^2.0.2"
+    "underscore": ">=1.12.1"
   }
 }
